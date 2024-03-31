@@ -22,7 +22,7 @@ let z = 30;
 
 
 //var is function scoped and let is block scoped
-
+//yes it is
 function test(){
     let num2=30;
     if(true){
